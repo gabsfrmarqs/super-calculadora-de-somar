@@ -1,3 +1,5 @@
+#onde a mágica ocorre
+
 n1 = input("Insira o primeiro número: ")
 n2 = input("Insira o segundo número: ")
 
